@@ -7,9 +7,10 @@ Freelance Devsigner - Web Development & UI/UX Design passionate about digital so
 ## 🔍 About Me
 - **🎓 Education**: 4th semester of both an associate degree in IT and a bachelor's in Computer Engineering.
 - **💼 Internship**: IT intern at the city hall, focusing on real-world tech support and system development.
+- **📚 Interests**: Machine learning, AI, Data Science, Software Engineering, and Web Development.
 - **🚀 Future Aspirations**: Specialize in AI and create innovative solutions.
 - **🔬 Skills & Currently learning**: Python, Java, web development (HTML/CSS/JavaScript), UI/UX design & IT hardware/software support.
-  -- <div>
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -20,7 +21,6 @@ Freelance Devsigner - Web Development & UI/UX Design passionate about digital so
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 
-- **📚 Interests**: Machine learning, AI, Data Science, Software Engineering, and Web Development.
 
 ---
 
