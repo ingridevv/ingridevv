@@ -1,14 +1,14 @@
-# Hi, I'm Ingrid
+# Hi There, I'm Ingrid ✨
 Aspiring computer engineer, tech enthusiast and lifelong learner.
-Freelance Devsigner - Web Development & UI/UX Design passionate about digital solutions for the internet.
 
 ---
 
 ## 🔍 About Me
+- **⚖️ Professional Stats:** Freelance Devsigner - Web Developer & UI/UX Designer passionate about digital solutions for the internet.
 - **🎓 Education**: 4th semester of both an associate degree in IT and a bachelor's in Computer Engineering.
 - **💼 Internship**: IT intern at the city hall, focused on real-world tech support.
 - **📚 Interests**: Machine learning, AI, Data Science, Software Engineering, and Web Development.
-- **🚀 Future Aspirations**: Specialize in AI and create innovative solutions.
+- **🚀 Future Aspirations**: Specialize in Software Engineering and create innovative solutions.
 - **🔬 Currently learning**: Python, Java, Web Development (HTML/CSS/JavaScript), Web Frameworks (React, Angular and Vue) and Node.js
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
