@@ -1,6 +1,12 @@
-# about-ingrid
+# ☄ Hi, I'm Ingrid
 
-## Languages and Tools
+Freelance Devsigner - Web Development & UI/UX Design passionate about digital solutions for the internet.
+
+
+## Projects
+<a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
+
+PROJECTS 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
