@@ -4,7 +4,7 @@ Freelance Devsigner - Web Development & UI/UX Design passionate about digital so
 
 
 ## Projects
-<a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
+<a href="https://github.com/ingridevv/desafio-projeto-heroi">Jornada do Herói</a>
 
 PROJECTS 
 <div>
