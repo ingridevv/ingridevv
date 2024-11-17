@@ -1,5 +1,5 @@
-# ☄ Hi, I'm Ingrid
-
+# <a href="https://github.com/ingridevv/desafio-projeto-heroi"> Hi, I'm Ingrid
+Aspiring computer engineer, tech enthusiast and lifelong learner.
 Freelance Devsigner - Web Development & UI/UX Design passionate about digital solutions for the internet.
 
 
