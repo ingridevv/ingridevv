@@ -1,5 +1,5 @@
 # Hi There, I'm Ingrid ✨
-Aspiring computer engineer, tech enthusiast and lifelong learner.
+Aspiring computer engineer, tech enthusiast and lifelong learner. <br />
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/s-ingrid/)
 
 ---
