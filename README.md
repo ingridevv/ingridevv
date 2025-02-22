@@ -1,17 +1,16 @@
 # Hi There, I'm Ingrid ✨
-Aspiring computer engineer, tech enthusiast and lifelong learner. <br />
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/s-ingrid/)
 
 ---
 
-## 🔍 About Me
-- **⚖️ Professional Stats:** Freelance Devsigner - Web Developer & UI/UX Designer passionate about digital solutions for the internet.
-- **🎓 Education**: 5th semester of both an associate degree in IT and a bachelor's in Computer Engineering.
-- **💼 Internship**: Back End Development Intern.
-- **📚 Interests**: Machine learning, AI, Software Engineering, and Web Development.
-- **🚀 Future Aspirations**: Specialize in Software Engineering and create innovative solutions.
-- **🔬 Currently learning**: Java,Spring Boot, RabbitMQ, Web Development (HTML/CSS/JavaScript), Web Frameworks (React, Angular and Vue) and Node.js
+### Aspiring computer engineer, tech savvy and lifelong learner. <br />
+- 👩‍💻 UI/UX Designer @[Upwork](https://www.upwork.com).
+- 🎓 Associate's in IT and Bachelor's in Computer Engineering.
+- 🚀 Back End Development Intern.
+- 📚 Software Engineering, Machine learning, AI, and Web Development.
+
+  ( Java | Spring Boot | React JS | Angular | Node.js | JavaScript | CSS | Tailwind CSS | HTML )
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
