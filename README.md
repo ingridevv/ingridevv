@@ -4,13 +4,15 @@
 
 ---
 
+  **( Java | Spring Boot | React JS | Angular | Node.js | JavaScript | CSS | Tailwind CSS | HTML )**
+
 ### Aspiring computer engineer, tech savvy and lifelong learner. <br />
 - 👩‍💻 UI/UX Designer @[Upwork](https://www.upwork.com).
 - 🎓 Associate's in IT and Bachelor's in Computer Engineering.
 - 🚀 Back End Development Intern.
 - 📚 Software Engineering, Machine learning, AI, and Web Development.
 
-  ( Java | Spring Boot | React JS | Angular | Node.js | JavaScript | CSS | Tailwind CSS | HTML )
+
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
