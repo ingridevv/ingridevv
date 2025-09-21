@@ -7,7 +7,7 @@
   **( Java | Spring Boot | React JS | Angular | Node.js | JavaScript | CSS | Tailwind CSS | HTML )**
 
 ### Aspiring computer engineer, tech savvy and lifelong learner. <br />
-- 👩‍💻 UI/UX Designer @[Upwork](https://www.upwork.com).
+- 👩‍💻 Software Developer & UI/UX Designer.
 - 🎓 Associate's in IT and Bachelor's in Computer Engineering.
 - 🚀 Back End Development Intern.
 - 📚 Software Engineering, Machine learning, AI, and Web Development.
