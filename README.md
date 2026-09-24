@@ -1,4 +1,4 @@
-<h1 align="center">Ingrid da Silva</h1>
+<h1 align="center">Ingrid Germano</h1>
 
 <p align="center">
   <strong>Data Engineer | Google Cloud Certified Professional Data Engineer</strong>
