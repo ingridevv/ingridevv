@@ -51,6 +51,6 @@ End-to-end genomic data platform for processing and analyzing more than **1.1 mi
 
 ## Connect
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/s-ingrid/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/germano-ingrid/)
 
 ---
