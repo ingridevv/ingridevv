@@ -1,7 +1,7 @@
 <h1 align="center">Ingrid Germano</h1>
 
 <p align="center">
-  <strong>Data Engineer | Google Cloud Certified Professional Data Engineer</strong>
+  <strong>Data Engineer | Google Cloud Professional Data Engineer | Databricks Data Engineer</strong>
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@
 `Cloud-native Data Platforms` `Distributed Data Processing` `Scalable Data Infrastructure` `Lakehouse Architecture` `Big Data`
 
 **Data Engineering**
-`ETL/ELT` `Data Pipelines` `Batch Processing` `Analytics Engineering` `Data Modeling` `Data Warehousing`
+ `ETL/ELT` `Data Pipelines` `Batch Processing` `Analytics Engineering` `Data Modeling` `Data Warehousing`
 
 **Cloud & AI**
-`Google Cloud` `BigQuery` `Vertex AI` `Generative AI`
+`Google Cloud` `Databricks` `BigQuery` `Vertex AI` `Generative AI`
 
 **Programming**
 `Python` `SQL`
@@ -43,11 +43,13 @@ End-to-end genomic data platform for processing and analyzing more than **1.1 mi
 ---
 
 ## Certifications
+* [Google Cloud Certified Professional Data Engineer](https://www.credly.com/badges/186d2448-e6bd-4510-b238-45ae6aecdce7/public_url)
+* [Databricks Data Engineer Associate](https://credentials.databricks.com/944fe000-4015-4386-b55d-89587c74129a#acc.vzKcIJ2T)
+* [AWS Developer – Associate](https://www.credly.com/badges/1821f7de-e602-4f2c-b5a9-b5509df1f572/public_url)
+* [Oracle AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=7DD3FAF14238A4E1F872F826DC67E5209324615B04A8C02CF1BA3EE6664A2A5C)
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/3700bd42-aa26-40a4-8731-8ac9e21368ab/public_url)
 
-* Google Cloud Certified Professional Data Engineer
-* AWS Developer – Associate
-* Oracle AI Foundations Associate
-* AWS Certified Cloud Practitioner
+
 
 ## Connect
 
