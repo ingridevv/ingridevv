@@ -1,7 +1,7 @@
 <h1 align="center">Ingrid Germano</h1>
 
 <p align="center">
-  <strong>Data Engineer | Google Cloud Professional Data Engineer | Databricks Data Engineer</strong>
+  <strong>Cloud Data Engineer | GCP & Databricks</strong>
 </p>
 
 <p align="center">
