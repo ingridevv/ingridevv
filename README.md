@@ -10,6 +10,11 @@
          alt="Google Cloud Professional Data Engineer"
          width="200">
   </a>
+   <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/197018553">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/197018553"
+         alt="Databricks Data Engineer Associate"
+         width="200">
+  </a>
     <p align="center">
     I design and build cloud-native data platforms that power reliable analytical systems. My work spans scalable data infrastructure, distributed data processing, modern ELT architectures, and analytics engineering on Google Cloud. I am interested in advancing data engineering and AI for genomics, bioinformatics, and scientific computing.
     </p>
