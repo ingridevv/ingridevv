@@ -26,13 +26,10 @@
 `Cloud-native Data Platforms` `Distributed Data Processing` `Scalable Data Infrastructure` `Lakehouse Architecture` `Big Data`
 
 **Data Engineering**
- `ETL/ELT` `Data Pipelines` `Batch Processing` `Analytics Engineering` `Data Modeling` `Data Warehousing`
+ `Python` `SQL` `ETL/ELT` `Data Pipelines` `Batch Processing` `Analytics Engineering` `Data Modeling` `Data Warehousing`
 
 **Cloud & AI**
-`Google Cloud` `Databricks` `BigQuery` `Vertex AI` `Generative AI`
-
-**Programming**
-`Python` `SQL`
+`Google Cloud` `Databricks` `BigQuery` `Gemini Enterprise Agent Platform` `Generative AI`
 
 **Infrastructure**
 `Apache Airflow` `Apache Spark` `Docker` `Terraform` `CI/CD`
